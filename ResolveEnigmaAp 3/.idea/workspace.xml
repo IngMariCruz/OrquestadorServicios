@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c03f71cf-bcef-475c-9e48-3ad633c013f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.idea/ResolveEnigmaAp 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.swagger-codegen-ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/.swagger-codegen/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/Swagger2SpringBoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiOriginFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiResponseMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/NotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/config/SwaggerDocumentationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/ErrorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaStepResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseErrors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseSuccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/src/test/java/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApiControllerIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/Swagger2SpringBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiOriginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiResponseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/config/SwaggerDocumentationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/ErrorDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaStepResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/Header.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseErrors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResolveEnigmaAp 1/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseSuccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.swagger-codegen-ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.swagger-codegen/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/Swagger2SpringBoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiOriginFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiResponseMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/api/NotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/config/SwaggerDocumentationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/ErrorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaStepResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseErrors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseSuccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApiControllerIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/Swagger2SpringBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiOriginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiResponseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/config/SwaggerDocumentationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/ErrorDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/GetEnigmaStepResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/Header.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseErrors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/vanegas/microservice/resolveEnigmaApi/model/JsonApiBodyResponseSuccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/co/com/vanegas/microservice/resolveEnigmaApi/api/GetStepApiControllerIntegrationTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nB3FAQu9WahEvcVN3PJ0vHWaSF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/maria/OneDrive/Escritorio/semestres/6to semestre/servicios/OrquestadorEnigma/ResolveEnigmaAp3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Swagger2SpringBoot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="resolve-enigma-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.com.vanegas.microservice.resolveEnigmaApi.Swagger2SpringBoot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c03f71cf-bcef-475c-9e48-3ad633c013f7" name="Changes" comment="" />
+      <created>1728432538446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728432538446</updated>
+      <workItem from="1728432542830" duration="648000" />
+      <workItem from="1729005120578" duration="1920000" />
+      <workItem from="1729036858203" duration="662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

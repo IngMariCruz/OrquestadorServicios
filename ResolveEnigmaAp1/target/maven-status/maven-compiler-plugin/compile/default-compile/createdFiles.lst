@@ -1,0 +1,15 @@
+co\com\vanegas\microservice\resolveEnigmaApi\api\GetStepApi.class
+co\com\vanegas\microservice\resolveEnigmaApi\model\GetEnigmaRequest.class
+co\com\vanegas\microservice\resolveEnigmaApi\api\ApiException.class
+co\com\vanegas\microservice\resolveEnigmaApi\model\GetEnigmaStepResponse.class
+co\com\vanegas\microservice\resolveEnigmaApi\api\ApiResponseMessage.class
+co\com\vanegas\microservice\resolveEnigmaApi\model\Header.class
+co\com\vanegas\microservice\resolveEnigmaApi\api\ApiOriginFilter.class
+co\com\vanegas\microservice\resolveEnigmaApi\config\SwaggerDocumentationConfig.class
+co\com\vanegas\microservice\resolveEnigmaApi\model\JsonApiBodyResponseErrors.class
+co\com\vanegas\microservice\resolveEnigmaApi\api\GetStepApiController.class
+co\com\vanegas\microservice\resolveEnigmaApi\model\ErrorDetail.class
+co\com\vanegas\microservice\resolveEnigmaApi\model\JsonApiBodyRequest.class
+co\com\vanegas\microservice\resolveEnigmaApi\model\JsonApiBodyResponseSuccess.class
+co\com\vanegas\microservice\resolveEnigmaApi\api\NotFoundException.class
+co\com\vanegas\microservice\resolveEnigmaApi\Swagger2SpringBoot.class

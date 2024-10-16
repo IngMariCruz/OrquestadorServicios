@@ -25,7 +25,7 @@ public class GetStepService {
     private static final String CIRCUIT_BREAKER_NAME = "getStepServiceCircuitBreaker";
     private static final String FALLBACK_METHOD = "fallback";
 
-    private int maxRetries = 3; // Número máximo de reintentos
+    private int maxRetries = 5; // Número máximo de reintentos
     private long retryDelay = 2000;
 
     @CircuitBreaker(name = CIRCUIT_BREAKER_NAME, fallbackMethod = FALLBACK_METHOD)
